@@ -1,2 +1,2 @@
 "# Portfolio-Web-App" 
-"Using Django and HTML"
+"Using Django and HTML , Javascript"
